@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Compensation Software &#8211; Reicher Compensation Systems</title>
+	<atom:link href="/category/compensation-software/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Providing solutions for compensation programs since 1996.</description>
+	<lastBuildDate>Mon, 09 Sep 2019 19:29:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/08/DR-icon-e1566071903672.png</url>
+	<title>Compensation Software &#8211; Reicher Compensation Systems</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Another Merger</title>
+		<link>/another-comp-merger/</link>
+		
+		<dc:creator><![CDATA[Denise Reicher]]></dc:creator>
+		<pubDate>Mon, 09 Sep 2019 19:25:42 +0000</pubDate>
+				<category><![CDATA[Compensation Software]]></category>
+		<guid isPermaLink="false">/?p=1293</guid>
+
+					<description><![CDATA[Another interesting merger! Salary.com and Compdata July 2018. Read about it here.]]></description>
+										<content:encoded><![CDATA[
+<p>Another interesting merger! Salary.com and Compdata July 2018. Read about it <a href="https://www.hrdive.com/news/salarycom-merges-with-compdata-as-turbulent-market-calls-for-pay-data-mana/528946/">here</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>PayScale buys MarketPay</title>
+		<link>/payscale-buys-marketpay/</link>
+		
+		<dc:creator><![CDATA[Denise Reicher]]></dc:creator>
+		<pubDate>Wed, 04 May 2016 21:24:27 +0000</pubDate>
+				<category><![CDATA[Compensation Software]]></category>
+		<guid isPermaLink="false">/?p=738</guid>
+
+					<description><![CDATA[Well this was very interesting, who would have predicted this? I haven&#8217;t used either, but have certainly seen the advertising &#8230; <a class="kt-excerpt-readmore more-link" href="/payscale-buys-marketpay/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Well this was very interesting, who would have predicted this? I haven&#8217;t used either, but have certainly seen the advertising and websites for both. Let&#8217;s hope compensation professionals gain from this merger.</p>
+<p><a href="http://www.geekwire.com/2016/245313/" target="_blank" rel="noopener noreferrer">PayScale purchases MarketPay</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Compensation &#8211; Reicher Compensation Systems</title>
+	<atom:link href="/tag/compensation/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Providing solutions for compensation programs since 1996.</description>
+	<lastBuildDate>Sat, 24 Aug 2019 06:00:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/08/DR-icon-e1566071903672.png</url>
+	<title>Compensation &#8211; Reicher Compensation Systems</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Why do I need Access if I use Excel?</title>
+		<link>/do-i-need-microsoft-access-if-i-use-excel/</link>
+					<comments>/do-i-need-microsoft-access-if-i-use-excel/#respond</comments>
+		
+		<dc:creator><![CDATA[Denise Reicher]]></dc:creator>
+		<pubDate>Wed, 04 May 2016 21:18:50 +0000</pubDate>
+				<category><![CDATA[Microsoft Access]]></category>
+		<category><![CDATA[Compensation]]></category>
+		<category><![CDATA[Excel]]></category>
+		<guid isPermaLink="false">/?p=685</guid>
+
+					<description><![CDATA[Microsoft has a great article addressing Access and Excel, as does FMS. I have my own ideas as to why a &#8230; <a class="kt-excerpt-readmore more-link" href="/do-i-need-microsoft-access-if-i-use-excel/">Read More</a>]]></description>
+										<content:encoded><![CDATA[<p>Microsoft has a great article addressing Access and Excel, as does FMS. I have my own ideas as to why a Compensation professional would want to use both Access and Excel. Links to both articles:</p>
+<p><a href="https://support.office.com/en-us/article/Top-10-reasons-to-use-Access-with-Excel-2a454445-13cc-4b39-bc2f-d27fd12ca414" target="_blank" rel="noopener noreferrer">Microsoft &#8211; Top 10 Reasons to use Access with Excel</a></p>
+<p><a href="http://www.fmsinc.com/microsoftaccess/DataAnalysis/versus-excel.html" target="_blank" rel="noopener noreferrer">FMS &#8211; Microsoft Access versus Microsoft Excel for Data Analysis and Reporting</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/do-i-need-microsoft-access-if-i-use-excel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

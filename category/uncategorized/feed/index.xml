@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Reicher Compensation Systems</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Providing solutions for compensation programs since 1996.</description>
+	<lastBuildDate>Fri, 28 Aug 2020 17:15:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/08/DR-icon-e1566071903672.png</url>
+	<title>Uncategorized &#8211; Reicher Compensation Systems</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Aon and Willis Towers Watson</title>
+		<link>/aon-and-willis-towers-watson/</link>
+		
+		<dc:creator><![CDATA[Denise Reicher]]></dc:creator>
+		<pubDate>Fri, 28 Aug 2020 17:12:20 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=2013</guid>
+
+					<description><![CDATA[Merger approved&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://www.insurancejournal.com/news/international/2020/08/26/580445.htm" target="_blank" rel="noreferrer noopener">Merger approved&#8230;</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
